@@ -1,4 +1,4 @@
-# Olá! Eu sou o Adriel Carvalho
+# Olá! Eu sou o Adriel Carvalho 👾
 - Estudo um curso FullStack
 - Estudo um Cuso de PHP
 - Faço Faculdade na Universidade São Judas
