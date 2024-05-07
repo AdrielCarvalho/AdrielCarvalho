@@ -16,8 +16,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/AdrielCarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUNOME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=fff&text_color=fff&border_color=9745f5&icon_color=9745f5"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUNOME&layout=compact&langs_count=7&theme=radical&title_color=fff&text_color=fff&border_color=9745f5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrielCarvalho&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=fff&text_color=fff&border_color=9745f5&icon_color=9745f5"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielCarvalho&layout=compact&langs_count=7&theme=radical&title_color=fff&text_color=fff&border_color=9745f5"/>
 </div>
   
   ##
@@ -35,7 +35,7 @@
   ##
  
 <div align='center'> 
-  <a href="https://instagram.com/lgor.vinicius" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href = "mailto:igvinps2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-vinicius-845b68217" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/adrielcarvalhol?igsh=MnVuOWYwOW52MGNw&utm_source=qr"></a>
+ 	<a href = "mailto:adriel.lima1972@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adriel-c-79674b231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
