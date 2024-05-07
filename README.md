@@ -8,9 +8,9 @@
 </div>
 <br>
   
-- Estudando um curso FullStack
-- Estudando um Cuso de PHP
-- Faço Faculdade na Universidade São Judas
+- Studying a Full Stack course
+- Studying a PHP course
+- Studying in college at São Judas University
 - 📫 Email: adriel.lima1972@gmail.com
 
 <br>
